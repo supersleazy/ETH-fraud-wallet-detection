@@ -1,4 +1,4 @@
-# Crypto Risk Analyzer
+# ETH - Fraud Wallet Detection
 
 ## 1. Project Overview
 
