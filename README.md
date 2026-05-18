@@ -310,8 +310,9 @@ This stack is locked to avoid unnecessary complexity.
 
 ---
 
-# 14. Folder Structure (Planned)
+## 14. Folder Structure (Planned)
 
+```txt
 crypto-risk-analyzer/
 │
 ├── data/
@@ -334,8 +335,7 @@ crypto-risk-analyzer/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
----
+```
 
 # 15. Four-Week Development Plan
 
