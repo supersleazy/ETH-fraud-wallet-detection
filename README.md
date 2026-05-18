@@ -420,7 +420,8 @@ The goal is to build a technically strong and well-structured fraud detection pi
 
 # 20. Notes & Design Decisions
 
-This section will evolve as datasets, experiments, and implementation details are finalized during development.
+Dataset chosen: https://www.kaggle.com/datasets/vagifa/ethereum-frauddetection-dataset
+
 
 ---
 
