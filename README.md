@@ -1,4 +1,4 @@
-# Ethereum Fraud Detection using Supervised Machine Learning
+# Ethereum (ETH) Fraud Detection using Supervised Machine Learning
 
 Detecting fraudulent Ethereum wallets using behavioral transaction analysis and supervised machine learning.
 
@@ -20,39 +20,39 @@ The project focuses on:
 
 ## Setup & Running the Jupyter Notebook:
 
-### 1. Clone the Repository
+1. Clone the Repository
 
 ```bash
 git clone https://github.com/supersleazy/ethereum-fraud-detection.git
 ```
 
-### 2. Navigate to the Project Folder
+2. Navigate to the Project Folder
 
 ```bash
 cd ethereum-fraud-detection
 ```
 
-### 3. Install Required Libraries
+3. Install Required Libraries
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Launch Jupyter Notebook
+4. Launch Jupyter Notebook
 
 ```bash
-jupyter notebook
+python -m notebook
 ```
 
-### 5. Open the Notebook
+5. Open the Notebook
 
-Open:
-
-```txt
-notebooks/ethereum_fraud_detection.ipynb
-```
-
-and run the cells sequentially.
+  Open:
+  
+  ```txt
+  notebooks/ethereum_fraud_detection.ipynb
+  ```
+  
+  and run the cells sequentially.
 
 ---
 
@@ -145,15 +145,17 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | XGBoost | Jupyte
 # Repository Structure
 
 ```bash
-ethereum-fraud-detection/
+Ethereum-Fraud-Detection/
 │
 ├── data/
-│
+│   └──transaction_dataset.csv
+│   └──transaction_dataset.zip
 ├── notebooks/
 │   └── ethereum_fraud_detection.ipynb
 │
 ├── reports/
-│   └── ethereum_fraud_detection.pdf
+│   └── Report_PDF.pdf
+│   └── Report_HTML.html
 │
 ├── requirements.txt
 │
@@ -166,11 +168,9 @@ ethereum-fraud-detection/
 
 Possible future extensions for the project:
 - 5-Fold Cross Validation
-- Hyperparameter tuning
 - Ensemble stacking and bagging
 - External dataset validation
 - Additional blockchain behavioral features
-- Real-time Ethereum transaction monitoring
 
 ---
 
