@@ -1,4 +1,4 @@
-# Ethereum Fraud Detection using Supervised Machine Learning
+# Ethereum (ETH) Fraud Detection using Supervised Machine Learning
 
 Detecting fraudulent Ethereum wallets using behavioral transaction analysis and supervised machine learning.
 
