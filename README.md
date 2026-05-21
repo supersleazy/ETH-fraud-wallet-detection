@@ -23,7 +23,7 @@ The project focuses on:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ethereum-fraud-detection.git
+git clone https://github.com/supersleazy/ethereum-fraud-detection.git
 ```
 
 ### 2. Navigate to the Project Folder
