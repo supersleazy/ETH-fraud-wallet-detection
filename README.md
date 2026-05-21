@@ -46,13 +46,13 @@ python -m notebook
 
 5. Open the Notebook
 
-  Open:
+    Open:
   
-  ```txt
-  notebooks/ethereum_fraud_detection.ipynb
-  ```
+    ```txt
+    notebooks/ethereum_fraud_detection.ipynb
+    ```
   
-  and run the cells sequentially.
+    and run the cells sequentially.
 
 ---
 
