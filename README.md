@@ -22,27 +22,27 @@ The project focuses on:
 
 1. Clone the Repository
 
-```bash
-git clone https://github.com/supersleazy/ethereum-fraud-detection.git
-```
+    ```bash
+    git clone https://github.com/supersleazy/ethereum-fraud-detection.git
+    ```
 
 2. Navigate to the Project Folder
 
-```bash
-cd ethereum-fraud-detection
-```
+    ```bash
+    cd ethereum-fraud-detection
+    ```
 
 3. Install Required Libraries
 
-```bash
-pip install -r requirements.txt
-```
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 4. Launch Jupyter Notebook
 
-```bash
-python -m notebook
-```
+    ```bash
+    python -m notebook
+    ```
 
 5. Open the Notebook
 
