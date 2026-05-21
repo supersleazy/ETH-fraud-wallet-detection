@@ -20,31 +20,31 @@ The project focuses on:
 
 ## Setup & Running the Jupyter Notebook:
 
-### 1. Clone the Repository
+1. Clone the Repository
 
 ```bash
 git clone https://github.com/supersleazy/ethereum-fraud-detection.git
 ```
 
-### 2. Navigate to the Project Folder
+2. Navigate to the Project Folder
 
 ```bash
 cd ethereum-fraud-detection
 ```
 
-### 3. Install Required Libraries
+3. Install Required Libraries
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Launch Jupyter Notebook
+4. Launch Jupyter Notebook
 
 ```bash
 python -m notebook
 ```
 
-### 5. Open the Notebook
+5. Open the Notebook
 
 Open:
 
