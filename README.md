@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ### 4. Launch Jupyter Notebook
 
 ```bash
-jupyter notebook
+python -m notebook
 ```
 
 ### 5. Open the Notebook
